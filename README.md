@@ -23,7 +23,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/leandrooliveiradias/)
 - 📧 E-mail: (leandrodotoni14@gmail.com)
-- 🎨 Figma (Protótipo do Medicame - https://www.figma.com/design/GOjJRC68ygIYHMOb0KHa3u/Untitled?node-id=0-1&p=f&t=KcZksjzvjqOagXX5-0)
+- 🎨 Figma (Protótipo do Tela de cadastro - https://www.figma.com/design/GOjJRC68ygIYHMOb0KHa3u/Untitled?node-id=0-1&p=f&t=KcZksjzvjqOagXX5-0)
 ---
 ✨ Obrigado pela visita! Fique à vontade para explorar meus repositórios e contribuir. 🚀
 
